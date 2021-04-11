@@ -1,0 +1,6 @@
+loginFrame = '//div[@data-testid="login_and_register"]'
+hierEinloggenButton = '//button[@data-testid="login-button"]'
+emailInput = '//input[@data-testid="long-register-email-field"]'
+passwordInput = '//input[@data-testid="long-register-password-field"]'
+isTermsAccepted = '//input[@name="isTermsAccepted"]'
+registrierenButton = '//button[@data-testid="login_reg_submit_btn"]'
